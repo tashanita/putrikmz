@@ -1,3 +1,6 @@
+html {
+  -webkit-text-size-adjust: 100%;
+}
 body {
     text-align: center;
     background-color: slateblue;
@@ -254,4 +257,5 @@ footer {
     .fotoProduk {
         width: 40%;
     }
+
 }
